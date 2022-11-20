@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://parohiaparculcalarasi.ro/sitemap.xml
+Sitemap: https://parohiaparculcalarasi.ro/sitemap.xml
