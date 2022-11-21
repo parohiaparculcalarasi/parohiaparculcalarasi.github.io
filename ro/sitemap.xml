@@ -8,17 +8,17 @@
     <loc>https://parohiaparculcalarasi.ro/location/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/scrieri-filocalice/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/iulian-ignat/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2015/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/month/2015-03/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/month/2015-05/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,6 +52,84 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/categories/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/month/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/month/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/month/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/categories/revist%C4%83/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/revista/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/revista/spre-viata-vesnica/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/year/</loc>
+    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/year/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/nicolae-giolu/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/revista/inaltarea-domnului-ziua-cinstirii-eroilor-neamului/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/scrieri-filocalice/</loc>
+    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/2015-03/</loc>
+    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/revista/deznadejde-descurajare-cedare/</loc>
     <lastmod>2015-03-01T04:00:00+00:00</lastmod>
@@ -77,83 +155,14 @@
     <loc>https://parohiaparculcalarasi.ro/tags/filocalia/</loc>
     <lastmod>2015-03-01T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/month/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/month/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/month/"
-                />
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/"
-                />
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/categories/revist%C4%83/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/revista/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2015-03-01T04:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/year/"
-                />
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/daniela-ignat/</loc>
     <lastmod>2015-03-01T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/revista/copilaria-furata-sau-despre-jocurile-pierdute-ale-copilariei/</loc>
     <lastmod>2015-03-01T02:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/iulian-ignat/</loc>
-    <lastmod>2015-03-01T01:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/revista/binecuvantarea-lui-dumnezeu/</loc>
     <lastmod>2015-03-01T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2015-03-01T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/nicolae-giolu/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/revista/semnificatia-deniilor/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
