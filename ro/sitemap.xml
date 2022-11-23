@@ -2,6 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://parohiaparculcalarasi.ro/year/2022/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/2022-11/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/events/cor-cu-dor/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/events/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/month/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/month/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/month/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/year/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/year/"
+                />
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/about/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,65 +143,11 @@
     <loc>https://parohiaparculcalarasi.ro/tags/filocalia/</loc>
     <lastmod>2015-05-01T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2015-05-01T03:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/month/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/month/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/month/"
-                />
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2015-05-01T03:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/"
-                />
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/revist%C4%83/</loc>
     <lastmod>2015-05-01T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/revista/</loc>
     <lastmod>2015-05-01T03:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2015-05-01T03:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/year/"
-                />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/iulian-ignat/</loc>
     <lastmod>2015-05-01T01:00:00+00:00</lastmod>
