@@ -74,17 +74,20 @@
     <loc>https://parohiaparculcalarasi.ro/location/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/nicolae-giolu/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/iulian-ignat/</loc>
+    <lastmod>2015-09-01T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2015/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-09-01T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2015-09/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-09-01T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/revista/anul-bisericesc/</loc>
+    <lastmod>2015-09-01T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-09-01T01:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -102,7 +105,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-09-01T01:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -119,13 +122,16 @@
                 href="https://parohiaparculcalarasi.ro/categories/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/revista/marturii-de-peste-ani/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/revist%C4%83/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-09-01T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/revista/</loc>
+    <lastmod>2015-09-01T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/nicolae-giolu/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/revista/marturii-de-peste-ani/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/scrieri-filocalice/</loc>
@@ -157,9 +163,6 @@
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/filocalia/</loc>
     <lastmod>2015-05-01T03:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/iulian-ignat/</loc>
-    <lastmod>2015-05-01T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
     <lastmod>2015-05-01T01:00:00+00:00</lastmod>
