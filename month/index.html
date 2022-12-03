@@ -671,6 +671,79 @@
 
 </div>
 </footer>
+
+<style>
+    #consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #c00; color: #fff;}
+    #consent-notice span {margin-right: 1rem;}
+    #consent-notice button {cursor: pointer; display: inline-block; width: auto;}
+    #consent-notice span a {color: inherit; text-decoration: underline; text-decoration-color: rgba(255,255,255,0.5);}
+    #consent-notice button.btn {margin-left: 0.5rem;}
+    #consent-notice button.btn.approve-consent {background: rgba(255,255,255,0.3); font-weight: normal; color: #FFF;}
+</style>
+<div id="consent-notice"><span>Pentru îmbunătățirea funcționalității sale, acest site web folosește cookie-uri.</span><button class="btn approve-consent">Permite</button></div>
+<script>
+    const scripts = [];
+
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=Lax";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+    function acceptAllConsentScripts() {
+        var consentValue = "accepted";
+        scripts.forEach(function(){
+            consentValue = consentValue + "1";
+        });
+        acceptSomeConsentScripts(consentValue);
+    }
+    function acceptSomeConsentScripts(consentValue) {
+        createCookie('consent-settings',consentValue,31);
+        document.getElementById('consent-notice').style.display = 'none';
+        loadConsentScripts(consentValue);
+    }
+    function loadConsentScripts(consentValue) {
+        scripts.forEach(function(value,key){
+            
+            if(consentValue[key]=="1") {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.src = value;
+                document.body.appendChild(s);
+            }
+        });
+    }
+    if(readCookie('consent-settings')) {
+        var consentValue = readCookie('consent-settings').toString();
+        
+        loadConsentScripts(consentValue);
+    } else {
+        document.getElementById('consent-notice').style.display = 'block';
+    }
+    var elements = document.querySelectorAll('.approve-consent');
+    elements.forEach(function(el) {
+        el.addEventListener("click",function() {
+            acceptAllConsentScripts();
+        });
+    });
+</script>
+
 <script data-precache src="https://parohiaparculcalarasi.ro/assets/main/bundle.min.82114acacbe28300d991ef02aca3519a9983cb585848f9e22bd154b0f55e4377.js" integrity="sha256-ghFKysvigwDZke8CrKNRmpmDy1hYSPniK9FUsPVeQ3c=" crossorigin="anonymous" defer></script><script data-precache src="https://parohiaparculcalarasi.ro/assets/icons/bundle.min.2f7b5080d4ec020d3fcab659f34026af3000b2fe97cff8e9c96ef3e12c784f40.js" integrity="sha256-L3tQgNTsAg0/yrZZ80AmrzAAsv6Xz/jpyW7z4Sx4T0A=" crossorigin="anonymous" defer></script>
 <script data-precache src="https://parohiaparculcalarasi.ro/assets/viewer/bundle.min.e5a7213f2100ce0c5c22bd9f113527cd503672ffe57b00e9d6bf5f2abb0d86b2.js" integrity="sha256-5achPyEAzgxcIr2fETUnzVA2cv/lewDp1r9fKrsNhrI=" crossorigin="anonymous" defer></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3BB0WZWR4M"></script>
