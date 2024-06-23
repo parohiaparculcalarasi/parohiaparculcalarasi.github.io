@@ -2,20 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/ps-lucian--episcopul-caransebesului/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/pazeste-i-in-numele-tau-ca-sa-fie-una-precum-suntem-si-noi/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-sofronie--episcopul-oradiei/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2024/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2024-06/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,13 +48,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,10 +72,10 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -96,7 +93,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,8 +110,11 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/unitatea-hristica-in-diversitatea-darurilor-duhului-sfant/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,6 +130,12 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-lucian--episcopul-caransebesului/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/pazeste-i-in-numele-tau-ca-sa-fie-una-precum-suntem-si-noi/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ips-ciprian--arhiepiscopul-buzaului-si-vrancei/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
