@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/ps-galaction--episcopul-alexandriei-si-teleormanului/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-ambrozie--episcopul-giurgiului/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2024/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2024-08/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,13 +48,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -72,13 +72,16 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/in-suferinta-nu-suntem-singuri/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/%C3%AEnmul%C8%9Birea-p%C3%A2inilor/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/inmultirea-painilor-prefigurare-a-sfintei-euharistii/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -96,7 +99,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,11 +116,8 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-a-doi-orbi-%C5%9Fi-a-unui-mut-din-capernaum/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -133,6 +133,15 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-galaction--episcopul-alexandriei-si-teleormanului/</loc>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/in-suferinta-nu-suntem-singuri/</loc>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-a-doi-orbi-%C5%9Fi-a-unui-mut-din-capernaum/</loc>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ps-andrei--episcopul-covasnei-si-harghitei/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
