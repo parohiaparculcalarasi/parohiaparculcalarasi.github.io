@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/ps-nestor--episcopul-devei-si-hunedoarei/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2024/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2024-09/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,7 +27,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,13 +45,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -72,13 +69,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/luarea-crucii-%C8%99i-urmarea-lui-hristos/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/increderea-in-hristos-poate-schimba-lucrurile-din-viata-noastra/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -96,7 +93,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,11 +110,14 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/urmarea-lui-hristos-si-adevarata-marturisire-a-credintei/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/pescuirea-minunat%C4%83/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-ieronim--episcopul-daciei-felix./</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -133,6 +133,15 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-nestor--episcopul-devei-si-hunedoarei/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/luarea-crucii-%C8%99i-urmarea-lui-hristos/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/urmarea-lui-hristos-si-adevarata-marturisire-a-credintei/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ps-petroniu--episcopul-salajului/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
@@ -630,6 +639,8 @@
     <lastmod>2009-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/maria-ignat/</loc>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-ieronim--episcopul-daciei-felix/</loc>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/archives/2015/</loc>
   </url><url>
