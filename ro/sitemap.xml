@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/ps-paisie-sinaitul--episcop-vicar-patriarhal/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-timotei-prahoveanul/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2024/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/month/2024-11/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/month/2024-12/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,16 +48,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/dreg%C4%83torul-bogat---p%C4%83zirea-poruncilor/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,13 +72,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/exigentele-imparatiei-lui-dumnezeu-si-intrebarea-esentiala-pentru-om/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/lumina-intunericul-si-cararea-catre-bucuria-intalnirii-cu-domnul-vietii-vesnice/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -99,7 +96,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -116,8 +113,11 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-orbului-din-ierihon/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -133,6 +133,18 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-paisie-sinaitul--episcop-vicar-patriarhal/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/2024-11/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/dreg%C4%83torul-bogat---p%C4%83zirea-poruncilor/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/exigentele-imparatiei-lui-dumnezeu-si-intrebarea-esentiala-pentru-om/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/patriarhul-daniel/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
@@ -540,9 +552,6 @@
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/iisus-hristos-daruieste-lumina-sufletului-si-trupului/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-orbului-din-ierihon/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/mihail-buca/</loc>
