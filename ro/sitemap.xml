@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/sfantul-cuvios-cleopa-ilie/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/ps-marc-nemteanul/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2025/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2025-01/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,13 +48,16 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/de-la-vindecarea-individuala-la-mantuirea-personala/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -72,10 +75,10 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -93,7 +96,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -110,11 +113,11 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/sa-ascultam-cuvantul-domnului-cat-mai-avem-timp-de-pocainta/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-celor-zece-lepro%C8%99i/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,6 +133,12 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/sfantul-cuvios-cleopa-ilie/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/sa-ascultam-cuvantul-domnului-cat-mai-avem-timp-de-pocainta/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ps-paisie-lugojanul--episcop-vicar-al-arhiepiscopiei-timisoarei/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
@@ -365,7 +374,13 @@
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/domnul-hristos-asculta-rugaciunea-si-il-poate-vindeca-pe-om/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-slugii-suta%C8%99ului/</loc>
+    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ps-antonie-episcop-de-balti/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/despre-grijile-vie%C8%9Bii/</loc>
     <lastmod>2024-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/tirania-celor-materiale-alunga-pacea-si-linistea-din-sufletul-omului/</loc>
@@ -512,6 +527,9 @@
     <loc>https://parohiaparculcalarasi.ro/authors/ips-ioan--arhiepiscopul-timisoarei-si-mitropolitul-banatului/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/pilda-talan%C8%9Bilor/</loc>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/sa-nu-l-judecam-aspru-pe-dumnezeu/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -531,9 +549,6 @@
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/multumirea-adusa-lui-dumnezeu-este-o-necesitate-pentru-noi-nu-pentru-el/</loc>
-    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pilda-celor-zece-lepro%C8%99i/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/iisus-hristos-este-lumina-vietii-vesnice/</loc>
