@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--emil-jurcan/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--jan-nicolae/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2025/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/month/2025-05/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/month/2025-06/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,16 +48,19 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-6-a-dup%C4%83-pa%C8%99ti/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-7-a-dup%C4%83-pa%C8%99ti/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-sfin%C8%9Bilor-p%C4%83rin%C8%9Bi-de-la-sinodul-i-ecumenic/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,10 +78,10 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -95,11 +98,8 @@
                 href="https://parohiaparculcalarasi.ro/month/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/orbul-din-nastere-da-lectii-de-vedere-duhovniceasca-celor-orbi-spiritual/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -116,11 +116,11 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-orbului-din-na%C8%99tere/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/rugaciunea-arhiereasca-si-mai-presus-de-fire-oglindita-in-crezul-bisericii/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -136,6 +136,21 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--emil-jurcan/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/2025-05/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-6-a-dup%C4%83-pa%C8%99ti/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/orbul-din-nastere-da-lectii-de-vedere-duhovniceasca-celor-orbi-spiritual/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-orbului-din-na%C8%99tere/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/protos--antim-baru/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
@@ -744,12 +759,6 @@
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/pazeste-i-in-numele-tau-ca-sa-fie-una-precum-suntem-si-noi/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-7-a-dup%C4%83-pa%C8%99ti/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-sfin%C8%9Bilor-p%C4%83rin%C8%9Bi-de-la-sinodul-i-ecumenic/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ips-ciprian--arhiepiscopul-buzaului-si-vrancei/</loc>
