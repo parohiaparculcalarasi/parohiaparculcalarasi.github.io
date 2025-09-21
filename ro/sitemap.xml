@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/pr--ionita-apostolache/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--lect--dr--ion-sorin-bora/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2025/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2025-09/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,17 +47,17 @@
                 href="https://parohiaparculcalarasi.ro/categories/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/crucea-domnului-regasirea-noastra/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-dup%C4%83-%C3%AEn%C4%83l%C8%9Barea-sfintei-cruci/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,13 +75,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/%C3%AEn%C4%83l%C8%9B%C4%83rii-sfintei-cruci/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/luarea-crucii-%C8%99i-urmarea-lui-hristos/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -116,8 +116,11 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/semnificatia-sfintei-cruci-pentru-crestinii-dreptcredinciosi/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -133,6 +136,15 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--ionita-apostolache/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/crucea-domnului-regasirea-noastra/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/%C3%AEn%C4%83l%C8%9B%C4%83rii-sfintei-cruci/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/arhim--mihail-muscariu/</loc>
     <lastmod>2025-09-07T00:00:00+00:00</lastmod>
@@ -774,12 +786,6 @@
     <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ps-nestor--episcopul-devei-si-hunedoarei/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-dup%C4%83-%C3%AEn%C4%83l%C8%9Barea-sfintei-cruci/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/luarea-crucii-%C8%99i-urmarea-lui-hristos/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/urmarea-lui-hristos-si-adevarata-marturisire-a-credintei/</loc>
