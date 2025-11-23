@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/patriarhul-daniel/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/protos--teofan-popescu/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2025/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2025-11/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/a-te-imbogati-in-dumnezeu/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,14 +32,35 @@
                 href="https://parohiaparculcalarasi.ro/authors/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/centenarul-patriarhiei-romane-moment-de-reflectie-asupra-responsabilitatii-noastre-crestine/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/categories/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/categories/"
+                />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-26-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,8 +77,11 @@
                 href="https://parohiaparculcalarasi.ro/tags/"
                 />
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -72,7 +99,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -89,11 +116,11 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pastorala-sinodal%C4%83/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/pilda-bogatului-c%C4%83ruia-i-a-rodit-%C8%9Barina/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -110,34 +137,19 @@
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/patriarhul-daniel/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/centenarul-patriarhiei-romane-moment-de-reflectie-asupra-responsabilitatii-noastre-crestine/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/pastorala-sinodal%C4%83/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/pr--marius-daniel-ciobota/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/categories/"
-                />
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-24-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/%C3%AEnvierea-fiicei-lui-iair/</loc>
@@ -1284,9 +1296,6 @@
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/hambare-pline-dar-suflet-gol/</loc>
-    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pilda-bogatului-c%C4%83ruia-i-a-rodit-%C8%9Barina/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/duminicii-a-25-a-dup%C4%83-rusalii/</loc>
