@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://parohiaparculcalarasi.ro/authors/arhimandrit-natanael-haraga/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2025/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2025-12/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/authors/"
+                />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,8 +47,20 @@
                 href="https://parohiaparculcalarasi.ro/categories/"
                 />
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/cina-cea-mare-a-imparatiei-celei-fara-de-sfarsit/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-28-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,14 +77,11 @@
                 href="https://parohiaparculcalarasi.ro/tags/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/categories/evenimente/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/events/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,7 +99,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -86,14 +116,11 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/events/2025-sear%C4%83-de-suflet-cu-archd-mihail-buca-grupul-tronos/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/tronos/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/pilda-celor-pofti%C8%9Bi-la-cin%C4%83/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -110,37 +137,22 @@
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/categories/evenimente/</loc>
+    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/events/</loc>
+    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/events/2025-sear%C4%83-de-suflet-cu-archd-mihail-buca-grupul-tronos/</loc>
+    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/tronos/</loc>
+    <lastmod>2025-12-07T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/pr--sergiu-marian-chioarta/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/authors/"
-                />
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-27-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/redresarea-omului-incepe-cu-credinta/</loc>
@@ -779,13 +791,7 @@
     <loc>https://parohiaparculcalarasi.ro/authors/ps-nichifor-botosaneanul/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-28-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/intalnirea-cu-hristos-sarbatoare-a-vindecarii-si-biruintei-asupra-raului/</loc>
-    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pilda-celor-pofti%C8%9Bi-la-cin%C4%83/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ps-timotei-prahoveanul/</loc>
