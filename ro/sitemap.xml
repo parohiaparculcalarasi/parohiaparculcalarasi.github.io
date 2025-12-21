@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/arhimandrit-natanael-haraga/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/arhim--hrisostom-ciuciu/</loc>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2025/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2025-12/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,20 +47,20 @@
                 href="https://parohiaparculcalarasi.ro/categories/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/cina-cea-mare-a-imparatiei-celei-fara-de-sfarsit/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-28-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-dinaintea-na%C8%99terii-domnului/</loc>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-sfin%C8%9Bilor-p%C4%83rin%C8%9Bi-dup%C4%83-trup-ai-domnului/</loc>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,10 +78,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/genealogia-mantuitorului-nostru-iisus-hristos-sau-la-inceput-a-fost-familia/</loc>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -99,7 +102,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -116,11 +119,8 @@
                 href="https://parohiaparculcalarasi.ro/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pilda-celor-pofti%C8%9Bi-la-cin%C4%83/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -136,6 +136,18 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/arhimandrit-natanael-haraga/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/cina-cea-mare-a-imparatiei-celei-fara-de-sfarsit/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-28-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/pilda-celor-pofti%C8%9Bi-la-cin%C4%83/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/evenimente/</loc>
     <lastmod>2025-12-07T12:00:00+00:00</lastmod>
@@ -773,12 +785,6 @@
     <loc>https://parohiaparculcalarasi.ro/month/2024-12/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-dinaintea-na%C8%99terii-domnului/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-sfin%C8%9Bilor-p%C4%83rin%C8%9Bi-dup%C4%83-trup-ai-domnului/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/la-craciun-intram-in-neamul-in-familia-lui-dumnezeu/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -887,10 +893,10 @@
     <loc>https://parohiaparculcalarasi.ro/authors/diac-emilian-apostolescu/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/categories/actualitate/</loc>
+    <loc>https://parohiaparculcalarasi.ro/actualitate/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/actualitate/</loc>
+    <loc>https://parohiaparculcalarasi.ro/categories/actualitate/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/actualitate/hirotonie-de-diacon-la-manastirea-comana/</loc>
