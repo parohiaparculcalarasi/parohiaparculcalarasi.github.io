@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--univ--stefan-iloaie/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/patriarhul-daniel/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2026/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/month/2026-02/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/month/2026-03/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,6 +28,93 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/authors/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/doua-sfinte-imparatese-apara-ortodoxia-prin-cinstirea-icoanelor/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/tags/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/month/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/month/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/month/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/pastorala-sinodal%C4%83/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/year/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parohiaparculcalarasi.ro/en/year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/year/"
+                />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--univ--stefan-iloaie/</loc>
+    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/2026-02/</loc>
+    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
@@ -47,9 +134,6 @@
                 href="https://parohiaparculcalarasi.ro/categories/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,83 +143,11 @@
     <loc>https://parohiaparculcalarasi.ro/tags/duminica-l%C4%83satului-sec-de-br%C3%A2nz%C4%83/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/tags/"
-                />
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/month/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/month/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/month/"
-                />
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/"
-                />
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/sa-ne-aducem-aminte-de-unde-am-cazut/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parohiaparculcalarasi.ro/en/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/year/"
-                />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/diac-emilian-apostolescu/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
@@ -230,9 +242,6 @@
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/pocaiti-va-o-sentinta-gresit-inteleasa/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/patriarhul-daniel/</loc>
-    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2025/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -240,9 +249,6 @@
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/nasterea-lui-hristos-prezisa-de-profeti-si-vestita-de-ingeri-si-pastori/</loc>
-    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pastorala-sinodal%C4%83/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/arhim--hrisostom-ciuciu/</loc>
