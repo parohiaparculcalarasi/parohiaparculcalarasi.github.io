@@ -2,20 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--daniel-dascalu/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/osana-bine-este-cuvantat-cel-ce-vine-intru-numele-domnului/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/protos--teofan-popescu/</loc>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2026/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2026-04/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,20 +47,23 @@
                 href="https://parohiaparculcalarasi.ro/categories/"
                 />
   </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/cum-putem-avea-mai-multa-viata-si-cum-putem-deveni-martori-ai-invierii/</loc>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-6-a-din-postul-mare/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-2-a-dup%C4%83-pa%C8%99ti/</loc>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-floriilor/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-sf%C3%A2ntului-apostol-toma/</loc>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,10 +81,10 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -102,7 +102,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -120,7 +120,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -136,6 +136,18 @@
                 hreflang="ro"
                 href="https://parohiaparculcalarasi.ro/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--daniel-dascalu/</loc>
+    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/osana-bine-este-cuvantat-cel-ce-vine-intru-numele-domnului/</loc>
+    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-6-a-din-postul-mare/</loc>
+    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-floriilor/</loc>
+    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/pr--nicolae-dura/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
@@ -382,9 +394,6 @@
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/tanarul-dregator-si-intrebarea-care-iti-schimba-viata/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/protos--teofan-popescu/</loc>
-    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/a-te-imbogati-in-dumnezeu/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
@@ -750,12 +759,6 @@
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/biserica-parcul-c%C4%83l%C4%83ra%C8%99i---bariera-vergului/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-2-a-dup%C4%83-pa%C8%99ti/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-sf%C3%A2ntului-apostol-toma/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/evanghelia-dumnezeiestii-incredintari/</loc>
