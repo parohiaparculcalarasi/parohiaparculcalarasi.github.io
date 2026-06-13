@@ -15,6 +15,11 @@
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://parohiaparculcalarasi.ro/en/authors/"
                 />
@@ -23,14 +28,14 @@
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/authors/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/authors/"
-                />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,11 +45,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/categories/"
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/chemarea-la-ucenicie-prioritatea-imparatiei/</loc>
@@ -66,6 +66,11 @@
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://parohiaparculcalarasi.ro/en/tags/"
                 />
@@ -74,17 +79,17 @@
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/tags/"
-                />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/month/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -95,14 +100,14 @@
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/month/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/month/"
-                />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,14 +118,14 @@
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/"
-                />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/year/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,11 +135,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/year/"
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/pr--alexandru-atanase-barna/</loc>
@@ -1820,13 +1820,13 @@
     <loc>https://parohiaparculcalarasi.ro/offline/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/offline/"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/offline/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/offline/"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/offline/"
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/patristica/</loc>
@@ -1834,13 +1834,13 @@
     <loc>https://parohiaparculcalarasi.ro/search/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/search/"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/search/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/search/"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/search/"
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/archives/2015/09/</loc>
@@ -1873,13 +1873,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://parohiaparculcalarasi.ro/zh-cn/series/"
+                hreflang="ro"
+                href="https://parohiaparculcalarasi.ro/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ro"
-                href="https://parohiaparculcalarasi.ro/series/"
+                hreflang="zh-cn"
+                href="https://parohiaparculcalarasi.ro/zh-cn/series/"
                 />
   </url>
 </urlset>
