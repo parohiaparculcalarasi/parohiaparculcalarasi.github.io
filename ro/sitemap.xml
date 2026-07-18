@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--radu-petre-muresan/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/arhim--nicodim-petre/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2026/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2026-07/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -48,16 +48,16 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-6-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-7-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -75,10 +75,10 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -96,7 +96,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -113,14 +113,14 @@
                 href="https://parohiaparculcalarasi.ro/zh-cn/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-sl%C4%83b%C4%83nogului-din-capernaum/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-a-doi-orbi-%C8%99i-a-unui-mut-din-capernaum/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/vindecarea-slabanogului-o-bucurie-dincolo-de-persoanele-care-l-au-adus/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/vindecarea-ochilor-vine-dupa-vindecarea-inimii/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -136,6 +136,18 @@
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--radu-petre-muresan/</loc>
+    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-6-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-sl%C4%83b%C4%83nogului-din-capernaum/</loc>
+    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/vindecarea-slabanogului-o-bucurie-dincolo-de-persoanele-care-l-au-adus/</loc>
+    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/arhid--conf--dr--nicolae-olimpiu-benea/</loc>
     <lastmod>2026-07-05T00:00:00+00:00</lastmod>
@@ -759,12 +771,6 @@
     <lastmod>2025-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/credinta-vindecare-marturisire/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-7-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-a-doi-orbi-%C8%99i-a-unui-mut-din-capernaum/</loc>
     <lastmod>2025-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/ce-invatam-din-viata-si-din-slujirea-sfantului-proroc-ilie/</loc>
