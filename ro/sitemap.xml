@@ -2,20 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--jan-nicolae/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/arhim--hrisostom-ciuciu/</loc>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2026/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2026-08/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/acul-cuvantului-inteapa-constiintele-si-coase-haina-desavarsirii/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -33,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -51,16 +48,16 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-12-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-13-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -78,10 +75,10 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -99,7 +96,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -116,11 +113,14 @@
                 href="https://parohiaparculcalarasi.ro/zh-cn/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pilda-t%C3%A2n%C4%83rului-bogat/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/piatra-pe-care-o-tot-lepadam/</loc>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/pilda-lucr%C4%83torilor-r%C4%83i/</loc>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -136,6 +136,18 @@
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--jan-nicolae/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/acul-cuvantului-inteapa-constiintele-si-coase-haina-desavarsirii/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-12-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/pilda-t%C3%A2n%C4%83rului-bogat/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/arhim--prof--univ--dr---teofil-tia/</loc>
     <lastmod>2026-08-16T00:00:00+00:00</lastmod>
@@ -565,9 +577,6 @@
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/nasterea-lui-hristos-prezisa-de-profeti-si-vestita-de-ingeri-si-pastori/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/authors/arhim--hrisostom-ciuciu/</loc>
-    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/duminica-dinaintea-na%C8%99terii-domnului/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
