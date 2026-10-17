@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/pr--georgian-paunoiu/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--conf--dr--alexandru-corneliu-arion/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2026/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/2026-10/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -48,16 +48,19 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-21-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-20-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/dumnezeul-care-nu-ramane-strain-de-lacrimile-omului/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -75,10 +78,13 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/%C3%AEnvierea-fiului-v%C4%83duvei-din-nain/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -96,7 +102,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -113,14 +119,8 @@
                 href="https://parohiaparculcalarasi.ro/zh-cn/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pilda-sem%C4%83n%C4%83torului/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/suntem-pamant-batatorit-dar-nu-deznadajduim-pentru-mantuirea-noastra/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -136,6 +136,18 @@
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--georgian-paunoiu/</loc>
+    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-21-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/pilda-sem%C4%83n%C4%83torului/</loc>
+    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/suntem-pamant-batatorit-dar-nu-deznadajduim-pentru-mantuirea-noastra/</loc>
+    <lastmod>2026-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/pr--conf--dr--lucian-farcasiu/</loc>
     <lastmod>2026-10-04T00:00:00+00:00</lastmod>
@@ -753,12 +765,6 @@
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/constantin-s%C3%A2rbu/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-20-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/%C3%AEnvierea-fiului-v%C4%83duvei-din-nain/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/events/2025-lansarea-filmului-documentar-sfantul-preot-mucenic-constantin-sarbu/</loc>
