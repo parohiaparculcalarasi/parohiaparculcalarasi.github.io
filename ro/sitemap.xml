@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parohiaparculcalarasi.ro/authors/pr--dr--stefan-zara/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--prof--dr--david-pestroiu/</loc>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/2026/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/month/2026-10/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/month/2026-11/</loc>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -48,16 +48,19 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/categories/cuv%C3%A2nt-duhovnicesc/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-23-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-22-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/esecul-nemilostivirii-si-responsabilitatea-vesniciei/</loc>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -75,13 +78,10 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/tags/evanghelia-de-duminic%C4%83/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/mantuitorul-hristos-reda-omului-posedat-drumul-spre-casa/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/month/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -116,11 +116,11 @@
                 href="https://parohiaparculcalarasi.ro/zh-cn/"
                 />
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-demonizatului-din-%C8%9Binutul-gherghesenilor/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <loc>https://parohiaparculcalarasi.ro/tags/pilda-bogatului-nemilostiv-%C8%99i-a-s%C4%83racului-laz%C4%83r/</loc>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/year/</loc>
-    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
@@ -136,6 +136,21 @@
                 hreflang="zh-cn"
                 href="https://parohiaparculcalarasi.ro/zh-cn/year/"
                 />
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/authors/pr--dr--stefan-zara/</loc>
+    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/month/2026-10/</loc>
+    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-23-a-dup%C4%83-rusalii/</loc>
+    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/mantuitorul-hristos-reda-omului-posedat-drumul-spre-casa/</loc>
+    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parohiaparculcalarasi.ro/tags/vindecarea-demonizatului-din-%C8%9Binutul-gherghesenilor/</loc>
+    <lastmod>2026-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/patriarhul-daniel/</loc>
     <lastmod>2026-10-23T02:00:00+00:00</lastmod>
@@ -764,12 +779,6 @@
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/nu-plangeti-exista-inviere/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/bogatul-nemilostiv-%C8%99i-s%C4%83racul-laz%C4%83r/</loc>
-    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/duminica-a-22-a-dup%C4%83-rusalii/</loc>
-    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/in-lacrimi-se-vede-mai-bine-dumnezeu-decat-in-zambet/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -1119,9 +1128,6 @@
     <lastmod>2024-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/cuvant-duhovnicesc/gesturi-de-viata-cu-valoare-vesnica/</loc>
-    <lastmod>2024-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parohiaparculcalarasi.ro/tags/pilda-bogatului-nemilostiv-%C8%99i-a-s%C4%83racului-laz%C4%83r/</loc>
     <lastmod>2024-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parohiaparculcalarasi.ro/authors/ps-mihail--episcopul-ortodox-roman-al-australiei-si-noii-zeelande/</loc>
